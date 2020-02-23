@@ -5,6 +5,7 @@ public class Login {
 		System.out.println("Login functionality Testing ....");
 		System.out.println("Autoamting thet functionality in selenium");
 		System.out.println("Login");
+		System.out.println("Testing the git functionality..");
 	}
 
 }
